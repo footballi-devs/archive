@@ -1,1 +1,3 @@
-{ "url":"https://raw.githubusercontent.com/footballi-devs/archive/main/app-footballi-production-direct-market-release.apk" , "version_code":70246 , "version_name":"18.2.0" , "rollout":10  }
+{ "url":"https://raw.githubusercontent.com/footballi-devs/archive/main/app-footballi-production-direct-market-release.apk" , "version_code":70247
+CLOOPY_3 , "version_name":"18.3.0
+CLOOPY_1.0.2" , "rollout":10  }
